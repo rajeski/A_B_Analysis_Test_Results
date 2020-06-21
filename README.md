@@ -4,14 +4,14 @@
 Attempt to understand whether a given company should implement a new page or keep the old page with following steps:
 
 ### Probability-based approach
-A/B test
-Regression approach
+- A/B test
+- Regression approach
 
 ### Requirements
-Matplotlib 
-Python 
-Pandas
-Statsmodels 
+1) Matplotlib 
+2) Pandas
+3) Python
+4) Statsmodels 
 
 #### Probability-based approach:
 
@@ -27,5 +27,5 @@ Double check and validate results and decide whether to reject the null hypothes
 
 #### Regression Approach:
 
-Exploretwo possible outcomes; 1) Existing page; and/or, 2) New page. Which one is better? Why? 
+Explore two possible outcomes; 1) Keep the existing page; and/or, 2) Use the new page. Which one is better? Why? 
 Factoring user's geo-location of the users, determine if any specific country had an impact on conversion? 
