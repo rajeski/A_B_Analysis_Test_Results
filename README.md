@@ -15,7 +15,8 @@ Attempt to understand whether a given company should implement a new webpage or 
 
 #### Probability-based approach:
 
-Attempt to find the probability of an individual receiving the new page or a current page and the odds between them.
+Attempt to find the probability of whether or not someone logging onto the organization's homepage receives the 
+new webpage or the current webpage and what ate the odds between these two possibilities.
 
 #### A/B test:
 
