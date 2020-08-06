@@ -28,5 +28,5 @@ new webpage or the current webpage and what ate the odds between these two possi
 
 #### Regression Approach:
 
-- Explore two possible outcomes; 1) Keep the existing page; and/or, 2) Use the new page. Which one is better? Why? 
+- Explore two possible outcomes; 1) Keep the existing page; and/or, 2) Use the new page. Which webpage is better? How? Why? 
 - Factoring user's geo-location of the users, determine if any specific country had an impact on conversion? 
