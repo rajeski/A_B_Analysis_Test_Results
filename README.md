@@ -20,7 +20,7 @@ new webpage or the current webpage and what ate the odds between these two possi
 
 #### A/B test:
 
-- Test a hypothesis, "Do new page results in better conversion or not?"
+- Hypothesis (test), "Do new page results in better conversion or not?"
 - Simulate user groups with respect to conversions
 - Find the the p_value
 - Double check and validate results and decide whether to reject the null hypothesis
@@ -29,4 +29,4 @@ new webpage or the current webpage and what ate the odds between these two possi
 #### Regression Approach:
 
 - Explore two possible outcomes; 1) Keep the existing page; and/or, 2) Use the new page. Which webpage is better? How? Why? 
-- Factoring user's geo-location of the users, determine if any specific country had an impact on conversion? 
+- Factoring user's geo-location of the users, determine if any specific country had an impact on conversion?
