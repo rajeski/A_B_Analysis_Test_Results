@@ -1,7 +1,7 @@
 # A/B Analysis Test Results
 ## Jupyter Notebook: A/B, e-commerce, website, test.
 
-Attempt to understand whether a given company should implement a new webpage or keep the current webpage by:
+An in-house project to understand whether a given company should implement a new webpage or keep the current webpage by:
 
 ### Probability-based approach
 - A/B test
