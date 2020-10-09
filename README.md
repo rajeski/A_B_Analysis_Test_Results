@@ -1,5 +1,5 @@
 # A/B Analysis Test Results
-## Jupyter Notebook: A/B, e-commerce, website, test.
+## Jupyter Notebook: A/B, e-commerce, website prototyping and testing.
 
 An in-house project to understand whether a given company should implement a new webpage or keep the current webpage by:
 
